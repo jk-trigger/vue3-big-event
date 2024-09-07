@@ -2,9 +2,6 @@
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 console.log(asd)
-
-console.log('123')
-console.log(1)
 </script>
 
 <template>
